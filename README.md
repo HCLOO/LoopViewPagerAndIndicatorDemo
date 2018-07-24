@@ -1,0 +1,2 @@
+# LoopViewPagerAndIndicatorDemo
+Android 实现循环切换的ViewPager，同时搭配Indicator（个人Demo）
